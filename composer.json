@@ -1,0 +1,11 @@
+{
+    "name": "ubuntu/test",
+    "autoload": {
+        "psr-4": {
+            "Ubuntu\\Test\\": "src/"
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^4.4"
+    }
+}
